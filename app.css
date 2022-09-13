@@ -3271,7 +3271,7 @@ p {
 .testimonial-slider {
     overflow: hidden;
     width: 100%;
-    min-height: 400px;
+    /* min-height: 400px; */
     margin-left: 120px;
     background-color: transparent;
 }
@@ -4491,7 +4491,7 @@ p {
     }
     .brands-logo {
         width: 10px !important;
-        height: 80px;
+        /* height: 80px; */
     }
     .wrapper.licensing {
         padding-right: 20px;
@@ -4854,6 +4854,7 @@ p {
 
 img.brands-logo {
     width: 200px !important;
+    /* height: 40px !important; */
 }
 
 .home-3-steps-pointer-item {
